@@ -1,0 +1,74 @@
+# Custom Field Widget for WordPress
+# Copyright (C) 2008 Scott Allan Wallick
+# This file is part of Custom Field Widget.
+# Custom Field Widget is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation, either version 3 of
+# the License, or (at your option) any later version.
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-field-widget\n"
+"POT-Creation-Date: 2008-08-06 21:09+0000\n"
+"PO-Revision-Date: 2008-08-06 21:09+0000\n"
+"Last-Translator: Scott Allan Wallick <s@plaintxt.org>\n"
+"Language-Team: Scott Allan Wallick <s@plaintxt.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: custom-field-widget.php:152
+#, php-format
+msgid ""
+"Enter the custom field key <a href=\"%s\">[?]</a>  to locate in single posts/"
+"pages. When found, the corresponding value is displayed along with widget "
+"title and text (if provided)."
+msgstr ""
+
+#: custom-field-widget.php:154
+msgid "Custom Field Key (required):"
+msgstr ""
+
+#: custom-field-widget.php:156
+msgid "The <strong>key</strong> must match <em>exactly</em> as in posts/pages."
+msgstr ""
+
+#: custom-field-widget.php:159
+msgid "Widget Title (optional):"
+msgstr ""
+
+#: custom-field-widget.php:163
+msgid "Widget Text (optional):"
+msgstr ""
+
+#: custom-field-widget.php:186
+msgid "Display page/post custom field value for a set key"
+msgstr ""
+
+#: custom-field-widget.php:195
+msgid "Custom Field"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Custom Field Widget"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.plaintxt.org/experiments/custom-field-widget/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Displays the values of specified <a "
+"href=\"http://codex.wordpress.org/Using_Custom_Fields\">custom field</a> "
+"keys, allowing post- and page-specific meta content in your sidebar. A "
+"plaintxt.org experiment for WordPress."
+msgstr ""
+
+#. Author of an extension
+msgid "Scott Allan Wallick"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://scottwallick.com/"
+msgstr ""
