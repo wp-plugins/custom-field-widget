@@ -1,7 +1,7 @@
-# Custom Field Widget for WordPress
-# Copyright (C) 2008 Scott Allan Wallick
-# This file is part of Custom Field Widget.
-# Custom Field Widget is free software: you can redistribute it and/or
+# CUSTOM FIELD WIDGET for WordPress
+# Copyright (C) 2008 SCOTT ALLAN WALLICK
+# This file is part of CUSTOM FIELD WIDGET.
+# CUSTOM FIELD WIDGET is free software: you can redistribute it and/or
 # modify it under the terms of the GNU General Public License as
 # published by the Free Software Foundation, either version 3 of
 # the License, or (at your option) any later version.
