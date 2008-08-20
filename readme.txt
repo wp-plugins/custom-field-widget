@@ -3,7 +3,7 @@ CONTRIBUTORS: scottwallick
 DONATE LINK: http://www.plaintxt.org/about/#donate
 TAGS: custom field, custom value, custom key, field, value, key, post meta, meta, get_post_meta, widget, sidebar, multiple widgets
 REQUIRES AT LEAST: 2.5
-TESTED UP TO: 2.6
+TESTED UP TO: 2.6.1
 STABLE TAG: 0.1
 
 The Custom Field Widget displays values of custom field keys, allowing post- and page-specific meta sidebar content with limitless applications.
