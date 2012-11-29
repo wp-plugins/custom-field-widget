@@ -1,5 +1,5 @@
 === Custom Field Widget ===
-CONTRIBUTORS: scottwallick
+CONTRIBUTORS: plaintxt.org
 DONATE LINK: http://www.plaintxt.org/about/#donate
 TAGS: custom field, custom value, custom key, field, value, key, post meta, meta, get_post_meta, widget, sidebar, multiple widgets
 REQUIRES AT LEAST: 2.5
